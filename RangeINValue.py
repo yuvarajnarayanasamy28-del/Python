@@ -1,0 +1,11 @@
+a=list(range(5))
+print(a)
+#range
+b=list(range(2,5))
+print(b)
+#even
+c=list(range(0,21,2))
+print(c)
+#odd
+d=list(range(1,20,2))
+print(d)
